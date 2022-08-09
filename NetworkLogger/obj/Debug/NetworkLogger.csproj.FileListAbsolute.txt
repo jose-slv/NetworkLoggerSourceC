@@ -1,0 +1,13 @@
+C:\Users\josesilva\OneDrive - Microsoft\Desktop\CodingTestGround\ProjectAutomateCxSideQueires\NetworkLogger\NetworkLogger\obj\Debug\NetworkLogger.csproj.AssemblyReference.cache
+C:\Users\josesilva\OneDrive - Microsoft\Desktop\CodingTestGround\ProjectAutomateCxSideQueires\NetworkLogger\NetworkLogger\obj\Debug\NetworkLogger.csproj.SuggestedBindingRedirects.cache
+C:\Users\josesilva\OneDrive - Microsoft\Desktop\CodingTestGround\ProjectAutomateCxSideQueires\NetworkLogger\NetworkLogger\obj\Debug\StandardNetCapB.Home.resources
+C:\Users\josesilva\OneDrive - Microsoft\Desktop\CodingTestGround\ProjectAutomateCxSideQueires\NetworkLogger\NetworkLogger\obj\Debug\StandardNetCapB.Properties.Resources.resources
+C:\Users\josesilva\OneDrive - Microsoft\Desktop\CodingTestGround\ProjectAutomateCxSideQueires\NetworkLogger\NetworkLogger\obj\Debug\StandardNetCapB.Scenarios.PcktCap.resources
+C:\Users\josesilva\OneDrive - Microsoft\Desktop\CodingTestGround\ProjectAutomateCxSideQueires\NetworkLogger\NetworkLogger\obj\Debug\StandardNetCapB.Scenarios.SourceTraffic.resources
+C:\Users\josesilva\OneDrive - Microsoft\Desktop\CodingTestGround\ProjectAutomateCxSideQueires\NetworkLogger\NetworkLogger\obj\Debug\NetworkLogger.csproj.GenerateResource.cache
+C:\Users\josesilva\OneDrive - Microsoft\Desktop\CodingTestGround\ProjectAutomateCxSideQueires\NetworkLogger\NetworkLogger\obj\Debug\NetworkLogger.csproj.CoreCompileInputs.cache
+C:\Users\josesilva\OneDrive - Microsoft\Desktop\CodingTestGround\ProjectAutomateCxSideQueires\NetworkLogger\NetworkLogger\obj\Debug\NetworkLogger.exe
+C:\Users\josesilva\OneDrive - Microsoft\Desktop\CodingTestGround\ProjectAutomateCxSideQueires\NetworkLogger\NetworkLogger\obj\Debug\NetworkLogger.pdb
+C:\Users\josesilva\OneDrive - Microsoft\Desktop\CodingTestGround\ProjectAutomateCxSideQueires\NetworkLogger\NetworkLogger\bin\Debug\NetworkLogger.exe.config
+C:\Users\josesilva\OneDrive - Microsoft\Desktop\CodingTestGround\ProjectAutomateCxSideQueires\NetworkLogger\NetworkLogger\bin\Debug\NetworkLogger.exe
+C:\Users\josesilva\OneDrive - Microsoft\Desktop\CodingTestGround\ProjectAutomateCxSideQueires\NetworkLogger\NetworkLogger\bin\Debug\NetworkLogger.pdb
